@@ -1,1 +1,3 @@
-# CNN_LSTM_battery_SoC
+## CNN_LSTM_battery_SoC
+
+###Describe
